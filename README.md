@@ -1,3 +1,5 @@
-# Movie App 2021
+태현이와 함께하는 React 공부
 
-React JS Fundamentals Course (2019 Update!)
+2021.08 ~ (with TaeHyun Kim)
+
+Nomadcoder 강의로 공부하면서 영화 앱 만들고 React JS 실력 기르기
